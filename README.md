@@ -19,10 +19,13 @@ Play with me:
 [![NodeJS Badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat-square&labelColor=777BB4&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat-square&labelColor=FF2D20&logoColor=white)]
 
+*********
 
 ## Info
 I'm some that doens't know if loves more technology or coffe ☕️, someone that loves travels, read books and to play some games.
 Developer at: <a href="https://v3.webmedbr.com">[<img src="/assets/images/icon.png" width="20">](https://github.com/4SS1S/4SS1S/blob/master/assets/images/icon.png?raw=true) - WebMed </a>
+
+************
 
 ## Buy me a coffee
 
