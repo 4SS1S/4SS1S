@@ -22,7 +22,7 @@ Play with me:
 
 ## Info
 I'm some that doens't know if loves more technology or coffe ☕️, someone that loves travels, read books and to play some games.
-Developer at: <a href="https://v3.webmedbr.com"><img src="./assets/images/icon.png" width="20"> - WebMed </a>
+Developer at: <a href="https://v3.webmedbr.com"><img src="/assets/images/icon.png" width="20"> - WebMed </a>
 
 ## Buy me a coffee
 
