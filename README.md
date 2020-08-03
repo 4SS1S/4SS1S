@@ -25,6 +25,7 @@ Play with me:
 
 ## Buy me a coffee
 
-So, if you like this profile or whats help me in anything, you can buy me a cooffe ☕️ or a beer 🍺  😃
+So, if you like this profile or whats help me in anything, you can buy me a cooffe ☕️ or a beer 🍺 
+😃
 
 <a href="https://www.buymeacoffee.com/4ss1s" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
