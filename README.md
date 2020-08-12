@@ -23,7 +23,13 @@ Play with me:
 
 ## Info
 I'm some that doens't know if loves more technology or coffe ☕️, someone that loves travels, read books and to play some games.
-Developer at: <a href="https://v3.webmedbr.com">[<img src="/assets/images/icon.png" width="20">](https://github.com/4SS1S/4SS1S/blob/master/assets/images/icon.png?raw=true) - WebMed </a>
+Developer at: <a href="https://v3.webmedbr.com">[<img src="/assets/images/icon.png" width="20">(https://github.com/4SS1S/4SS1S/blob/master/assets/images/icon.png?raw=true) - WebMed </a>
+
+**********
+
+![4ss1s's github stats](https://github-readme-stats.vercel.app/api?username=4ss1s&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ss1s)
 
 ************
 
@@ -33,5 +39,3 @@ So, if you like this profile or whats help me in anything, you can buy me a coof
 😃
 
 <a href="https://www.buymeacoffee.com/4ss1s" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=4ss1s&show_icons=true" alt="4ss1s" />
