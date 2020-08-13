@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-4ss1s-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/assisduarte)](https://t.me/assisduarte)
 
 Play with me:
-<a href="https://www.codingame.com/profile/7b2c3a312c3256f22f25c1cf227da4b13577983" target="_blank">CodinGame</a>
+[CodinGame](https://www.codingame.com/servlet/urlinvite?u=3897753)
 
 ## Fullstack Dev
 
