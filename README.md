@@ -7,11 +7,9 @@
 Play with me:
 [CodinGame](https://www.codingame.com/servlet/urlinvite?u=3897753)
 
-## Fullstack Dev
 
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=node&style=flat-square&labelColor=339933&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&labelColor=61DAFB&logoColor=white)]
-[![NodeJS Badge](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&style=flat-square&labelColor=663399&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&style=flat-square&labelColor=DB7093&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&style=flat-square&labelColor=007ACC&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=flat-square&labelColor=F7DF1E&logoColor=black)]
