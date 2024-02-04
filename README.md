@@ -10,11 +10,8 @@ Play with me:
 
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?logo=node&style=flat-square&labelColor=339933&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square&labelColor=61DAFB&logoColor=white)]
-[![NodeJS Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&style=flat-square&labelColor=DB7093&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&style=flat-square&labelColor=007ACC&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=flat-square&labelColor=F7DF1E&logoColor=black)]
-[![NodeJS Badge](https://img.shields.io/badge/-Electron-47848F?logo=electron&style=flat-square&labelColor=47848F&logoColor=white)]
-[![NodeJS Badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat-square&labelColor=777BB4&logoColor=white)]
 [![NodeJS Badge](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat-square&labelColor=FF2D20&logoColor=white)]
 
 *********
