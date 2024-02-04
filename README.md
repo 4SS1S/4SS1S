@@ -34,3 +34,7 @@ So, if you like this profile or whats help me in anything, you can buy me a coof
 😃
 
 <a href="https://www.buymeacoffee.com/4ss1s" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+## Visits
+
+![visitor count](https://profile-counter.glitch.me/4ss1s/count.svg)
