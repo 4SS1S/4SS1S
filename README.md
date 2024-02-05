@@ -1,4 +1,7 @@
-### Assis Duarte
+![image](https://github.com/4SS1S/4SS1S/assets/7684575/2e3bdc38-8d97-40f7-8d7f-9bbe9e01898e)### Assis Duarte
+
+![image](https://github.com/4SS1S/4SS1S/assets/7684575/cf6ec9b0-68ff-4336-bd9a-4f6bf3fe3b6d)
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@4ss1s_-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/4ss1s_)](https://twitter.com/4ss1s_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Assis%20Duarte-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/4ss1s/)](https://www.linkedin.com/in/4ss1s/)
