@@ -1,4 +1,4 @@
-![image](https://github.com/4SS1S/4SS1S/assets/7684575/2e3bdc38-8d97-40f7-8d7f-9bbe9e01898e)### Assis Duarte
+### Assis Duarte
 
 ![image](https://github.com/4SS1S/4SS1S/assets/7684575/cf6ec9b0-68ff-4336-bd9a-4f6bf3fe3b6d)
 
