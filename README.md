@@ -1,6 +1,6 @@
 ### Assis Duarte
 
-![image](https://github.com/4SS1S/4SS1S/assets/7684575/cf6ec9b0-68ff-4336-bd9a-4f6bf3fe3b6d)
+![welcome message]([https://github.com/4SS1S/4SS1S/assets/7684575/cf6ec9b0-68ff-4336-bd9a-4f6bf3fe3b6d](https://i.pinimg.com/originals/ef/fa/42/effa42dac363a54ade4cbbdd9f9f52cc.gif))
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@4ss1s_-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/4ss1s_)](https://twitter.com/4ss1s_) 
