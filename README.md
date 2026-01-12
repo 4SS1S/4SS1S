@@ -1,7 +1,5 @@
 ### Vinicios Pfeil
 
-![Welcome Message](https://i.pinimg.com/originals/ef/fa/42/effa42dac363a54ade4cbbdd9f9f52cc.gif)
-
 Play with me:
 [CodinGame](https://www.codingame.com/servlet/urlinvite?u=3897753)
 
