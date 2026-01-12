@@ -2,11 +2,6 @@
 
 ![Welcome Message](https://i.pinimg.com/originals/ef/fa/42/effa42dac363a54ade4cbbdd9f9f52cc.gif)
 
-
-[![Twitter Badge](https://img.shields.io/badge/-@4ss1s_-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/4ss1s_)](https://twitter.com/4ss1s_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Assis%20Duarte-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/4ss1s/)](https://www.linkedin.com/in/4ss1s/)
-[![Telegram Badge](https://img.shields.io/badge/-4ss1s-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/assisduarte)](https://t.me/assisduarte)
-
 Play with me:
 [CodinGame](https://www.codingame.com/servlet/urlinvite?u=3897753)
 
